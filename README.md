@@ -49,6 +49,47 @@ I am particularly interested in:
 </p>
 
 ---
+## 🚀 Featured Projects (Recruiter-Focused)
+
+Below are selected projects that demonstrate my ability to build **real-world applications**, work across the **full stack**, and deliver **production-ready solutions**.
+
+---
+
+### 🏡 WanderLust — Full-Stack Accommodation Platform  
+
+> A full-stack accommodation platform inspired by Airbnb, designed to manage property listings, user authentication, and reviews with a scalable backend architecture.
+
+**Key Highlights:**
+- Secure authentication & authorization  
+- CRUD operations for listings and reviews  
+- Backend-focused, scalable architecture  
+- Clean separation of concerns  
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript  
+
+🔗 **Live / Demo:**  
+*(Deployment pending — code available on request)*
+
+---
+
+### 🎥 VMeet — Real-Time Video Meeting Platform  
+
+> A real-time video conferencing application that enables users to create and join virtual meetings, focusing on real-time communication and frontend–backend integration.
+
+**Key Highlights:**
+- Real-time meeting experience  
+- Responsive UI  
+- Frontend–backend coordination  
+
+**Tech Stack:** JavaScript, Backend APIs  
+
+🔗 **Live Demo:**  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=render)](https://vmeet-frontend-5bdp.onrender.com/)
+
+---
+
+> 💡 *These projects highlight my ability to take ideas from concept to deployment, with a strong focus on backend reliability, integration, and real-world usability.*
+
 
 ## 💻 Tech Stack
 
