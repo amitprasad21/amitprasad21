@@ -55,7 +55,7 @@ Below are selected projects that demonstrate my ability to build **real-world ap
 
 ---
 
-### 🏡 WanderLust — Full-Stack Accommodation Platform  
+### 🏡 WanderLust — Full-Stack Accommodation Platform [![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=render)](https://wanderlust-wis2.onrender.com/)
 
 > A full-stack accommodation platform inspired by Airbnb, designed to manage property listings, user authentication, and reviews with a scalable backend architecture.
 
@@ -66,13 +66,9 @@ Below are selected projects that demonstrate my ability to build **real-world ap
 - Clean separation of concerns  
 
 **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript  
-
-🔗 **Live / Demo:**  
-*(Deployment pending — code available on request)*
-
 ---
 
-### 🎥 VMeet — Real-Time Video Meeting Platform  
+### 🎥 VMeet — Real-Time Video Meeting Platform  [![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=render)](https://vmeet-frontend-5bdp.onrender.com/)
 
 > A real-time video conferencing application that enables users to create and join virtual meetings, focusing on real-time communication and frontend–backend integration.
 
@@ -82,10 +78,6 @@ Below are selected projects that demonstrate my ability to build **real-world ap
 - Frontend–backend coordination  
 
 **Tech Stack:** JavaScript, Backend APIs  
-
-🔗 **Live Demo:**  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=render)](https://vmeet-frontend-5bdp.onrender.com/)
-
 ---
 
 > 💡 *These projects highlight my ability to take ideas from concept to deployment, with a strong focus on backend reliability, integration, and real-world usability.*
