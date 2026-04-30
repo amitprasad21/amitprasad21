@@ -24,7 +24,7 @@
 ---
 
 ## `> whoami`
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="535" alt="coder"/>
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450" alt="coder"/>
 
 ```typescript
 const amit = {
@@ -77,12 +77,6 @@ DevOps & Tools
 <img src="https://github-readme-stats.vercel.app/api?username=amitprasad21&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitprasad21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=amitprasad21&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
