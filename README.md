@@ -42,7 +42,7 @@ const amit = {
 };
 ```
 
-Tech Stack
+## Tech Stack
 <!-- ─── SQUARE ICON GRID via skill-icons (hover-animated on GitHub) ─── -->
 Languages
 <p align="left">
