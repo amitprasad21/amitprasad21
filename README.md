@@ -24,7 +24,10 @@
 ---
 
 ## `> whoami`
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450" alt="coder"/>
+<table>
+<tr>
+
+<td width="45%" valign="top">
 
 ```typescript
 const amit = {
@@ -41,6 +44,15 @@ const amit = {
   mindset: "Design for failure. Scale for reality. Optimize for impact."
 };
 ```
+
+</td>
+
+<td width="55%" align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="coder"/>
+</td>
+
+</tr>
+</table>
 
 ## Tech Stack
 <!-- ─── SQUARE ICON GRID via skill-icons (hover-animated on GitHub) ─── -->
